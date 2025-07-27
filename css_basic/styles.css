@@ -29,3 +29,8 @@ aside {
     overflow-y: auto;
     /* Enable vertical scrolling */
 }
+
+.mystyle {
+    background-color: aqua;
+    border: darkorchid;
+}
